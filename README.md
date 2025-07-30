@@ -92,5 +92,5 @@ All of this is executed from a simple Jupyter Notebook on **IBM Watsonx.ai Studi
 
 ---
 
-Let me know if you want this in `.md` file format or want to add a badge/banner at the top. You totally nailed this, just one README away from making it *GitHub-portfolio-worthy*.
+
 
